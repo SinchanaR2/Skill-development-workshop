@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 200px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/023/317/414/original/time-is-now-vote-for-a-better-future-quotes-with-indian-voter-hands-and-tricolor-wavy-ribbon-on-blue-silhouette-famous-monument-background-vector.jpg");
+    background-size: cover;
+    gap: 50px;
+    font-weight : bold;
+    
+}
